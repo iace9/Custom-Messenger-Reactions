@@ -1,5 +1,4 @@
 {
-	//Replace URLS with custome image URLS for each reaction
 	"loveUrl":"http://example.com/image.png",
 	"laughUrl":"http://example.com/image.png",
 	"surpriseUrl":"http://example.com/image.png",
